@@ -1,6 +1,6 @@
 # ELIXIR PROGRAMMING
 
-the  following project was learned with ubuntu 20.04 LTS.
+The following project was learned with ubuntu 20.04 LTS.
 
 ### Installation
 
